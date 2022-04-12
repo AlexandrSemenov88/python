@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # from myProject import *
 def main():
     pass
@@ -339,7 +338,6 @@ workingGeometric = geometricOperation()
 
 if __name__ == '__main__':
     main()
-=======
 # from myProject import *
 def main():
     pass
@@ -680,4 +678,4 @@ workingGeometric = geometricOperation()
 
 if __name__ == '__main__':
     main()
->>>>>>> origin/main
+
